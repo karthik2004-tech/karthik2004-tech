@@ -1,6 +1,5 @@
 # Hi, I'm Karthik 👋
 
-🎓 B.Tech Student  
 💻 Aspiring Data Scientist & Machine Learning Engineer  
 I enjoy building practical, real-world projects using data, machine learning, and software engineering principles.  
 My interests include computer vision, analytics, and intelligent systems.
@@ -8,7 +7,7 @@ My interests include computer vision, analytics, and intelligent systems.
 ## 🚀 What I Work On
 - Data Science & Machine Learning projects  
 - Data analysis & visualization  
-- Web-based dashboards and applications  
+  
 ---
 ## 🏆 Experience & Challenges
 - Participated in the **Amazon ML Challenge**, working on real-world machine learning problem statements  
