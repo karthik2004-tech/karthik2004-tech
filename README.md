@@ -1,6 +1,6 @@
 # Hi, I'm Karthik 👋
 
-🛰️ ** Aspring Data Scientist & ML Engineer** | Computer Vision & Geospatial AI
+🛰️ **Aspring Data Scientist & ML Engineer** | Computer Vision & Geospatial AI
 
 I build practical machine learning systems that work with real-world data — from satellite imagery to structured business data. Currently focused on computer vision, remote sensing, and applied analytics.
 
